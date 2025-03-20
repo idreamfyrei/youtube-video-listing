@@ -18,7 +18,10 @@ A **YouTube-style video listing page** fetches the video from [FreeAPI YouTube e
 
 ## Screenshots
 
+- Rendered videos
 ![Mood Tracker Screenshot-1](asset/Screenshot1.png)
+
+- Search bar filtering at frontend
 ![Mood Tracker Screenshot-2](asset/Screenshot2.png)
 
 ### Deployment Link
