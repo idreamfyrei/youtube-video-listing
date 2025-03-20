@@ -25,7 +25,7 @@ A **YouTube-style video listing page** fetches the video from [FreeAPI YouTube e
 ![Mood Tracker Screenshot-2](asset/Screenshot2.png)
 
 ### Deployment Link
-[Visit my website](https://random-quote-generator-6j1q.vercel.app/)
+[Youtube Video Listing](https://random-quote-generator-6j1q.vercel.app/)
 
 
 
